@@ -1,0 +1,5 @@
+node_modules/
+target/
+.dfx/
+.env
+*.Zone.Identifier
