@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Daily_Planner_icp
 =======
 # Daily planner
