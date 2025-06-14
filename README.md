@@ -1,5 +1,4 @@
-# Daily_Planner_icp
-# Daily planner
+# Daily_Planner
 
 Daily planner features a monthly calender that can be used to track daily activities, appointments, or tasks. Data for each task is stored onchain. For each day, a historic fact can be queried using HTTPS outcalls, which is a feature that allows ICP canisters to obtain data from external sources.
 
